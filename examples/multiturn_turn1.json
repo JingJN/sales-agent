@@ -1,0 +1,10 @@
+{
+  "lead_id": "MT001",
+  "session_id": "demo-session-1",
+  "conversation": [
+    {
+      "role": "user",
+      "content": "我们是300人制造业公司，想下周安排Demo，在新加坡，邮箱 alex@demo.com，想看AI线索跟进。"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "lead_id": "MT001",
+  "session_id": "demo-session-1",
+  "conversation": [
+    {
+      "role": "user",
+      "content": "选 slot_1。"
+    }
+  ]
+}
